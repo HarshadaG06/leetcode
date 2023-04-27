@@ -34,5 +34,6 @@ public class addDigits{
         int n = scn.nextInt();
         int sum = addDigits(n);
         System.out.println(sum);
+        scn.close();
     }
 }
