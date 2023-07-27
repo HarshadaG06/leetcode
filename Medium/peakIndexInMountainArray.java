@@ -1,3 +1,4 @@
+package Medium;
 /* 25-07-23
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 An array arr a mountain if the following properties hold:

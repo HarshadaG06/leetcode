@@ -1,3 +1,4 @@
+package Easy;
 /*
 26-04-2023
 https://leetcode.com/problems/add-digits/
@@ -17,7 +18,7 @@ Output: 0
 */
 import java.util.*;
 public class addDigits{
-    public static int addDigits(int num) {
+    public static int addDigitsOfNum(int num) {
         while(true){
             if(num <= 9) break;
             int sum = 0;
@@ -32,7 +33,7 @@ public class addDigits{
     public static void main(String args[]){
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
-        int sum = addDigits(n);
+        int sum = addDigitsOfNum(n);
         System.out.println(sum);
         scn.close();
     }

@@ -1,3 +1,4 @@
+package Hard;
 /* 
 27-07-23
 https://leetcode.com/problems/maximum-running-time-of-n-computers/

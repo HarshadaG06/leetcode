@@ -1,3 +1,4 @@
+package Medium;
 /*
 27-04-2023
 https://leetcode.com/problems/bulb-switcher/

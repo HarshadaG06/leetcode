@@ -1,3 +1,4 @@
+package Medium;
 /*
 10-07-2023
 https://leetcode.com/problems/delete-node-in-a-bst/description/

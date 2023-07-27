@@ -1,3 +1,4 @@
+package Medium;
 /*
 13-04-2023
 https://leetcode.com/problems/validate-stack-sequences/

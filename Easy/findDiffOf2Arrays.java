@@ -1,3 +1,4 @@
+package Easy;
 /*
 03-05-2023
 https://leetcode.com/problems/find-the-difference-of-two-arrays/
