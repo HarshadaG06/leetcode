@@ -10,6 +10,7 @@ An ongoing collection of Leetcode problems
 2. Valid Parenthesis
 3. Merge Two Sorted Lists
 4. Best Time to Buy and Sell Stock
+5. Valid Palindrome
 
 ### Practice
 | Easy                   | Medium                                | Hard                         |
