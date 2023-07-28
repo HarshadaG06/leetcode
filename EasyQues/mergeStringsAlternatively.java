@@ -1,4 +1,3 @@
-package Easy;
 /*
 18-04-2023
 https://leetcode.com/problems/merge-strings-alternately/
@@ -29,6 +28,7 @@ word1:  a   b   c   d
 word2:    p   q 
 merged: a p b q c   d
 */
+package EasyQues;
 public class mergeStringsAlternatively {
     public static String mergeAlternately(String word1, String word2) {
         StringBuilder merged = new StringBuilder();

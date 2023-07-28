@@ -1,4 +1,4 @@
-package Easy;
+
 /*
 26-04-2023
 https://leetcode.com/problems/add-digits/
@@ -16,6 +16,7 @@ Since 2 has only one digit, return it.
 Input: num = 0
 Output: 0
 */
+package EasyQues;
 import java.util.*;
 public class addDigits{
     public static int addDigitsOfNum(int num) {
