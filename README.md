@@ -11,6 +11,7 @@ An ongoing collection of Leetcode problems
 3. Merge Two Sorted Lists
 4. Best Time to Buy and Sell Stock
 5. Valid Palindrome
+6. Invert Binary Tree
 
 ### Practice
 | Easy                   | Medium                                | Hard                         |
