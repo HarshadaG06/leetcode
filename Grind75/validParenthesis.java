@@ -21,7 +21,7 @@ Example 3:
 
 Input: s = "(]"
 Output: false */
-package Grind75;
+
 
 import java.util.Stack;
 

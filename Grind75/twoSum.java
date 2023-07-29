@@ -19,7 +19,7 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
  */
-package Grind75;
+
 public class twoSum{
     public int[] findTwoSum(int[] arr, int target) {
 

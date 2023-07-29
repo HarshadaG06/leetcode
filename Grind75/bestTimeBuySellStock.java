@@ -18,7 +18,7 @@ Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
  */
 
-package Grind75;
+
 public class  bestTimeBuySellStock{
     public int maxProfit(int[] prices) {
         int profit = 0;

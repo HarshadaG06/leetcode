@@ -19,7 +19,7 @@ Input: list1 = [], list2 = [0]
 Output: [0]
  */
 
-package Grind75;
+
 
 public class mergeTwoSortedLists {
     public class ListNode {
