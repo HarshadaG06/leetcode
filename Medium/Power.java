@@ -1,4 +1,4 @@
-package Medium;
+
 /*
 24-07-23
 https://leetcode.com/problems/powx-n/description/

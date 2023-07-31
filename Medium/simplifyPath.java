@@ -1,4 +1,4 @@
-package Medium;
+
 /*
 12-04-2023
 https://leetcode.com/problems/simplify-path/description/

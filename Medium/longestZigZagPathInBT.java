@@ -1,4 +1,4 @@
-package Medium;
+
 /*
 19-04-2023
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
