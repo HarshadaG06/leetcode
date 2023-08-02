@@ -12,6 +12,7 @@ An ongoing collection of Leetcode problems
 4. Best Time to Buy and Sell Stock
 5. Valid Palindrome
 6. Invert Binary Tree
+7. Valid Anagram
 
 ### Practice
 | Easy                   | Medium                                | Hard                         |
