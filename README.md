@@ -13,6 +13,7 @@ An ongoing collection of Leetcode problems
 5. Valid Palindrome
 6. Invert Binary Tree
 7. Valid Anagram
+8. Binary Search
 
 ### Practice
 | Easy                   | Medium                                | Hard                         |
