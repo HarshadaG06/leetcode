@@ -27,3 +27,4 @@ An ongoing collection of Leetcode problems
 |                         | Simplify path                         |                               |
 |                         | Validate stack sequences              |                               |
 |                         | Minimum ASCII delete sum of two Strings |                             |
+|                         | Letter Combinations of a Phone Number |                             |
