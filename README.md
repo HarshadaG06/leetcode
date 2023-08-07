@@ -29,3 +29,4 @@ An ongoing collection of Leetcode problems
 |                         | Validate stack sequences              |                               |
 |                         | Minimum ASCII delete sum of two Strings |                             |
 |                         | Letter Combinations of a Phone Number |                             |
+|                         | Search a 2D matrix |                             |
