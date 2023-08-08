@@ -31,3 +31,4 @@ An ongoing collection of Leetcode problems
 |                         | Minimum ASCII delete sum of two Strings |                             |
 |                         | Letter Combinations of a Phone Number |                             |
 |                         | Search a 2D matrix |                             |
+|                         | Search in a Rotated Sorted Array |                             |
