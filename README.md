@@ -15,6 +15,7 @@ An ongoing collection of Leetcode problems
 7. Valid Anagram
 8. Binary Search
 9. Flood Fill
+10. Lowest Common Ancestor of Binary Search Tree
 
 ### Practice
 | Easy                   | Medium                                | Hard                         |
