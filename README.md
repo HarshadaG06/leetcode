@@ -34,3 +34,4 @@ An ongoing collection of Leetcode problems
 |                         | Search a 2D matrix |                             |
 |                         | Search in a Rotated Sorted Array |                             |
 |                         | Search in a Rotated Sorted Array II|                             |
+|                         | Partition List|                             |
