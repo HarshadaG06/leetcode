@@ -23,7 +23,7 @@ For nums1, nums1[2] and nums1[3] are not present in nums2. Since nums1[2] == num
 Every integer in nums2 is present in nums1. Therefore, answer[1] = [].
 
 */
-package EasyQues;
+
 import java.util.*;
 public class findDiffOf2Arrays {
     public static List<List<Integer>> findDifference(int[] nums1, int[] nums2) {

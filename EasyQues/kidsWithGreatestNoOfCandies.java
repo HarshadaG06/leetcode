@@ -28,7 +28,7 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 Input: candies = [12,1,12], extraCandies = 10
 Output: [true,false,true]
 */
-package EasyQues;
+
 import java.util.*;
 public class kidsWithGreatestNoOfCandies {
     static int max = 0;

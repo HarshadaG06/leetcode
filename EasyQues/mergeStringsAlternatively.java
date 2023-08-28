@@ -28,7 +28,7 @@ word1:  a   b   c   d
 word2:    p   q 
 merged: a p b q c   d
 */
-package EasyQues;
+
 public class mergeStringsAlternatively {
     public static String mergeAlternately(String word1, String word2) {
         StringBuilder merged = new StringBuilder();
