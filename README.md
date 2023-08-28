@@ -24,7 +24,7 @@ An ongoing collection of Leetcode problems
 | Find the difference of two arrays | Delete node from BST  |Sliding Window Maximum |
 | Kids with greatest number of candies | Knight's probability in chessboard  |                               |
 | Merge strings alternately | Longest Palindromic subsequence       |                               |
-|                         | Longest zig-zag path in a binary tree |                               |
+| Stack using queue | Longest zig-zag path in a binary tree |                               |
 |                         | Peak index in a mountain array        |                               |
 |                         | Power                                 |                               |
 |                         | Simplify path                         |                               |
