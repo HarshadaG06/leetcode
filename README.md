@@ -35,3 +35,4 @@ An ongoing collection of Leetcode problems
 |                         | Search in a Rotated Sorted Array |                             |
 |                         | Search in a Rotated Sorted Array II|                             |
 |                         | Partition List|                             |
+|                         | Unique Paths |                             |
