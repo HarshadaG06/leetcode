@@ -25,7 +25,7 @@ An ongoing collection of Leetcode problems
 | Kids with greatest number of candies | Knight's probability in chessboard  |                               |
 | Merge strings alternately | Longest Palindromic subsequence       |                               |
 | Stack using queue | Longest zig-zag path in a binary tree |                               |
-|                         | Peak index in a mountain array        |                               |
+| Find the Difference     | Peak index in a mountain array        |                               |
 |                         | Power                                 |                               |
 |                         | Simplify path                         |                               |
 |                         | Validate stack sequences              |                               |
